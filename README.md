@@ -1,2 +1,2 @@
 # max-diff
-maxDiff([1, 3, 9, 13]) = { min: 3, max: 9 }
+maxDiff([2, 1, 3, 5, 4]) = { min: 1, max: 5, diff: 4 }

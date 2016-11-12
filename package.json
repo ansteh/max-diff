@@ -1,0 +1,34 @@
+{
+  "name": "max-diff",
+  "version": "0.0.1",
+  "description": "maxDiff([2, 1, 3, 5, 4]) = { min: 1, max: 5, diff: 4 }",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ansteh/max-diff.git"
+  },
+  "keywords": [
+    "maxDiff",
+    "numbers",
+    "min",
+    "max",
+    "diff"
+  ],
+  "author": "Andre Stehle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ansteh/max-diff/issues"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  }
+}
